@@ -6,7 +6,7 @@
 
 ## 팀원(임시)
 - **JaewonYooTime**: CTO, 회의록 관리, 
-- **hobi2k**: GitHub 관리, requirements.txt 기반 환경 설정
+- **hobi2k**: GitHub 관리 및 팀 환경 설정 안내 작성(requirements.txt는 라이브러리 설치용이 아니라, GitHub 사용법을 정리한 파일입니다)
 - **kooljk**: 데이터 전처리
 - **sihun**: 데이터 통합 및 분석
 

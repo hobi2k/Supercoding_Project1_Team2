@@ -16,14 +16,15 @@
 - 주요 데이터 컬럼: 영화 제목, 장르, 평점, 관객 수, 흥행 수익 등
 
 ## 폴더 구조
-Supercoding_Project1_Team2/
+```
 ├─ data/ # 원본 및 전처리 데이터
-├─ jaewonyootime/ # 개인 작업 공간
-├─ hobi2k/ # 개인 작업 공간
-├─ kooljk/ # 개인 작업 공간
-├─ sihun/ # 개인 작업 공간
+├─ hobi2k/ # 팀원 hobi2k 개인 작업 공간
+├─ jaewonyootime/ # 팀원 jaewonyootime 개인 작업 공간
+├─ kooljk/ # 팀원 kooljk 개인 작업 공간
+├─ sihun/ # 팀원 sihun 개인 작업 공간
 ├─ README.md # 프로젝트 개요 및 가이드
-├─ requirements.txt # GitHub 사용 가이드 정리
+├─ requirements.txt # GitHub 사용 가이드
+``` 
 
 ## 분석 목표
 

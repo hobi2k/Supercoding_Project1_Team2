@@ -1,4 +1,4 @@
-# Supercoding_Project1_Team2
+# 2508 Supercoding DATA.AI_Project1_Team2
 
 ## 프로젝트 개요
 본 프로젝트는 **Kaggle 영화 데이터세트**을 활용하여 영화 관련 데이터를 분석하고 시각화하는 것을 목표로 합니다.  

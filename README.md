@@ -25,6 +25,7 @@
 ```
 ├─ data/ # 원본 및 전처리 데이터
 ├─ hobi2k/ # 팀원 hobi2k 개인 작업 공간
+|  ├─ Fonts/ #윈도우 사용 시 설치 필요 폰트
 ├─ jaewonyootime/ # 팀원 jaewonyootime 개인 작업 공간
 ├─ kooljk/ # 팀원 kooljk 개인 작업 공간
 ├─ sihun/ # 팀원 sihun 개인 작업 공간

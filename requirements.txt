@@ -18,3 +18,7 @@
 
 -작업물 합치기
 1. 원격 저장소에 업로드되면 깃허브 레포지토리에 Compare & pull request가 생긴다.
+
+-로컬 저장소를 최상 상태로 갱신
+1. git pull origin main로 원격 저장소의 main 브랜치에서 가져와 병합
+2. git pull origin 자기 브랜치로 원격 저장소의 자기 브랜치에서 가져와 병합
